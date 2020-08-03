@@ -43,8 +43,6 @@
 
 <img align="left" alt="EJM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edjunma&show_icons=true&hide_border=true" />
 
----
-
 [website]: https://edjunma.dev
 [twitter]: https://twitter.com/edjunma
 [instagram]: https://instagram.com/edjunma.dev
