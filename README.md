@@ -53,6 +53,11 @@
 
 ***********************************
 
+[website]: https://edjunma.dev
+[twitter]: https://twitter.com/edjunma
+[instagram]: https://instagram.com/ejm.dev
+[linkedin]: https://linkedin.com/in/edjunma
+
 #### Thank You-🙏🏼
 
 
