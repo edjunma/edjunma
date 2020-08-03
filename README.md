@@ -1,10 +1,11 @@
 ### Hello there, I'm [Edmond!](https://edjunma.dev) 👋
 
-### I'm a self-taught Full-stack developer from New York.
-
-#### - Learning React Native, Gatsby, GraphQL, Typescript
-
-#### - Interested in Mobile App & VR Development, E-commerce, and Cooking
+## I'm a self-taught developer from New York!
+- 🔭 I’m currently working on some e-commerce projects[website]
+- 🌱 I’m currently learning React Native, Gatsby, TypeScript, and some Unity
+- 👯 I’m looking to collaborate with other developers on projects and a mentor
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Interested in Mobile, VR, and Game Development
 
 <br/>
 
@@ -42,15 +43,7 @@
 
 <img align="left" alt="EJM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edjunma&show_icons=true&hide_border=true" />
 
-*************
-
-<br />
-
-### - Blog Posts 🌱
-
-<p align="center">
-<img src=""> 
-</p>
+---
 
 ***********************************
 
