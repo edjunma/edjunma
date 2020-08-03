@@ -1,7 +1,7 @@
 ### Hello there, I'm [Edmond!](https://edjunma.dev) 👋
 
 ## I'm a self-taught developer from New York!
-- 🔭 I’m currently working on some e-commerce projects [website]
+- 🔭 I’m currently working on some e-commerce projects, check out my [portfolio][website]!
 - 🌱 I’m currently learning React Native, Gatsby, TypeScript, and some Unity
 - 👯 I’m looking to collaborate with other developers on projects and a mentor
 - 🥅 2020 Goals: Contribute more to Open Source projects
