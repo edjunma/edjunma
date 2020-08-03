@@ -3,8 +3,8 @@
 ## I'm a self-taught developer from New York!
 - 🔭 I’m currently working on some e-commerce projects, check out my [portfolio][website]!
 - 🌱 I’m currently learning React Native, Gatsby, TypeScript, and some Unity
-- 👯 I’m looking to collaborate with other developers on projects and a mentor
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other developers and seeking a mentor
+- 🥅 2020 Goals: Contribute more to Open Source projects and practice more on technical interviews
 - ⚡ Interested in Mobile, VR, and Game Development
 
 <br/>
