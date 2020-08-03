@@ -48,8 +48,6 @@
 [instagram]: https://instagram.com/edjunma.dev
 [linkedin]: https://linkedin.com/in/edjunma
 
-#### Thank You-🙏🏼
-
 
 
 
