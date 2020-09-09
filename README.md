@@ -7,7 +7,6 @@
 - ⚡ Interested in Mobile, VR, and Game Development
 - 🥅 2020 Goals: Contribute more to Open Source projects and practice more on technical interviews
 
-
 <br/>
 
 ### Connect with me:
