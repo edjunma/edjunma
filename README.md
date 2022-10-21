@@ -1,11 +1,11 @@
-### Hello there, I'm [Edmond!](https://edjunma.dev) 👋
+### Hello there, I'm [Edmond!](https://edmondma.dev) 👋
 
 ## I'm a self-taught developer from New York!
 - 🔭 I’m currently working on some e-commerce projects, check out my [portfolio][website]!
-- 🌱 I’m currently learning React Native, Gatsby, TypeScript, and some Unity
-- 👯 I’m looking to collaborate with other developers and seeking a mentor
-- ⚡ Interested in Mobile, VR, and Game Development
-- 🥅 2020 Goals: Contribute more to Open Source projects and practice more on technical interviews
+- 🌱 I’m currently learning React Native, Gatsby, TypeScript, Next.js and some Unity.
+- 👯 I’m looking to collaborate and learn with other developers.
+- ⚡ Focused on Front-End Development but interested in Full-Stack, Mobile, VR, and Game Development.
+- 🥅 2020 Goals: Contribute more to Open Source projects and practice on technical interviews.
 
 <br/>
 
@@ -43,9 +43,9 @@
 
 <img align="left" alt="EJM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edjunma&show_icons=true&hide_border=true" />
 
-[website]: https://edjunma.dev
+[website]: https://edmondma.dev
 [twitter]: https://twitter.com/edjunma
-[instagram]: https://instagram.com/edjunma.dev
+[instagram]: https://instagram.com/edmondma.dev
 [linkedin]: https://linkedin.com/in/edjunma
 
 
